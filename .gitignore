@@ -2,4 +2,5 @@
 *.db
 *.pyc
 /Notebook-Start.lnk
-/aktuell/HTML
+/aktuell/HTML/*.html
+/aktuell/HTML/image/*.*
